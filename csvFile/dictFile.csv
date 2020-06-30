@@ -1,0 +1,9 @@
+﻿colname,notes 
+Males percentages,This column represent the total percentage of male of the country specificed. Thus the total percentage of female is equal to 1 - percentage(male)
+Life Excepetancy ,This column represent the total life expectancy of male of the country specificed. Thus the total percentage of female is equal to 1 - percentage(male)
+Terms ,this column represent the number of years each president served from they election to 2020
+religionName,These religions are the 3 most practiced religion of each individual country
+Area(km2),The area is measured in km(2) square 
+exportation ,Exportation is measured in European currency (Euro)
+importation,Importation is measured in European currency (Euro)
+tourism ,Tourism is measured in European currency (Euro)
